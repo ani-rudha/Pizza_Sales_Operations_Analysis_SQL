@@ -147,5 +147,3 @@ The project uses four relational tables:
 ## 🧾 Tools Used
 - MySQL Workbench  
 - SQL
-
----
